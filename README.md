@@ -1,8 +1,10 @@
 # COMPREHENSIVE EMOTIONAL ANALYSIS FOR MONITORING MENTAL HEALTH OF STUDENTS
-#Objective:
+
+Objective:
 To identify the emotional states of students by monitoring facial expressions in high recognition at a 
 high frame rate , thereby assisting teachers in helping students with their mental health problems
 
+Abstract
 Much of the discriminative information that we require to tell apart facial expressions that 
 distinguish different emotional states of a person lies mostly in very subtle movements around the 
 eye. So, if in a real-time monitoring scenario we are able to accurately map these movements to 
